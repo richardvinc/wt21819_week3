@@ -1,0 +1,16 @@
+.student-card {
+  background-color: beige;
+  width: 500px;
+  border-radius: 5px;
+  border: 1px darkgrey solid;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}

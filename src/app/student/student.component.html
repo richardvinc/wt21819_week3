@@ -1,0 +1,5 @@
+<div class="student-card" [ngClass]="{even: idx%2===0, odd: idx%2!==0}">
+  <p>NIM: {{student.nim}}</p>
+  <p>Nama: {{student.nama}}</p>
+  <p [ngClass]="{green: (student.ipk >= 3.0), red: (student.ipk < 3.0)}">IPK: {{student.ipk}}</p>
+</div>

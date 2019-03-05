@@ -1,0 +1,23 @@
+.student-card {
+  width: 500px;
+  border-radius: 5px;
+  border: 1px darkgrey solid;
+  padding: 10px;
+  margin: 10px 0px;
+}
+
+.student-card.even {
+  background-color: azure;
+}
+
+.student-card.odd {
+  background-color: aliceblue;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}

@@ -1,0 +1,14 @@
+<div class="student-card">
+  <h3>Student Detail</h3>
+  <hr>
+  <p>NIM: {{student.nim}}</p>
+  <p>Nama: {{student.nama}}</p>
+  <p>Program Studi: {{student.prodi}}</p>
+  <p [ngClass]="{green: (student.ipk>= 3.0), red: (student.ipk < 3.0)}">IPK: {{student.ipk}}</p>
+  <hr>
+  <p>Mata Kuliah yang diambil</p>
+  <ul>
+    <li *ngFor="let mk of student.matkul">{{mk}}</li>
+  </ul>
+  <button (click)="closeDetail()">close</button>
+</div>
