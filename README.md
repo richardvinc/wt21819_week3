@@ -2,6 +2,15 @@ richard
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+popo fernandes
+=======
+Rodo Max
+wwww
+>>>>>>> ef5581ec536aba7cbe9064fb09dc6bb8abfcf16e
+
+Alfredo Asyer
+=======
+<<<<<<< HEAD
 
 =======
 popo fernandes
@@ -33,6 +42,7 @@ rafy
 >>>>>>> 897cf8da60c701cbfd25187e809c22048e3a1650
 <<<<<<< HEAD
 =======
+>>>>>>> 20f71667e54ce74d0f23938eacdaa54df4545e59
 =======
 
 =======
@@ -84,4 +94,7 @@ ray bandel
 
 jonathan aprillio wijaya
 >>>>>>> 9436ef674d49853b2b617f9a25027c355cb706e4
+<<<<<<< HEAD
+=======
 >>>>>>> ad0c1faf249255dfad528051cbadfada10045aa2
+>>>>>>> 20f71667e54ce74d0f23938eacdaa54df4545e59
