@@ -4,6 +4,7 @@ richard
 <<<<<<< HEAD
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 popo fernandes
 >>>>>>> 92e27b476b02a18b563d721b600d7f7a88b68690
@@ -15,24 +16,42 @@ wwww
 >>>>>>> a28a29493a0cb333dd43c5b489014be556fb936b
 Rhein Michael
 =======
+=======
+=======
+popo fernandes
+>>>>>>> 92e27b476b02a18b563d721b600d7f7a88b68690
+=======
+<<<<<<< HEAD
+>>>>>>> 20f71667e54ce74d0f23938eacdaa54df4545e59
+
+
+
+>>>>>>> ad0c1faf249255dfad528051cbadfada10045aa2
 
 
 
 
-
-
+<<<<<<< HEAD
+raynor
+=======
 
 
 filemon
 =======
 popo fernandes
 >>>>>>> 92e27b476b02a18b563d721b600d7f7a88b68690
+>>>>>>> ad0c1faf249255dfad528051cbadfada10045aa2
 =======
 Rodo Max
 wwww
 rafy
 >>>>>>> 897cf8da60c701cbfd25187e809c22048e3a1650
+<<<<<<< HEAD
 >>>>>>> ad0c1faf249255dfad528051cbadfada10045aa2
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 20f71667e54ce74d0f23938eacdaa54df4545e59
 =======
 
 =======
@@ -74,3 +93,4 @@ rhein
 
 jonathan aprillio wijaya
 >>>>>>> 9436ef674d49853b2b617f9a25027c355cb706e4
+>>>>>>> ad0c1faf249255dfad528051cbadfada10045aa2
