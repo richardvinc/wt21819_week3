@@ -1,5 +1,6 @@
 richard
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 popo fernandes
@@ -9,3 +10,8 @@ popo fernandes
 
 
 raynor
+=======
+Rodo Max
+wwww
+rafy
+>>>>>>> 897cf8da60c701cbfd25187e809c22048e3a1650
