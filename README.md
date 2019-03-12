@@ -1,5 +1,9 @@
 richard
 <<<<<<< HEAD
+geraldin everdin pua
+
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 popo fernandes
@@ -9,6 +13,7 @@ Kevin Hadinata
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+>>>>>>> ae560219dc1844df67443e7cbd5a8c4e46648c01
 popo fernandes
 =======
 Rodo Max
